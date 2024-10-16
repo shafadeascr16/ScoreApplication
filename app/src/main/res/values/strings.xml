@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScoreApplication</string>
+    <string name="scoreA">Score A</string>
+    <string name="scoreB">Score B</string>
+    <string name="incrementA">Score A</string>
+    <string name="incrementB">Score B</string>
+</resources>
